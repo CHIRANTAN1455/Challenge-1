@@ -47,3 +47,7 @@ language_pack: cpp-20
 # Available versions: elixir-1.15
 language_pack: elixir-1.15
 {{/ language_is_elixir }}
+{{# language_is_haskell }}
+# Available versions: haskell-9.4
+language_pack: haskell-9.4
+{{/ language_is_haskell }}
